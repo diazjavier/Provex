@@ -1,0 +1,37 @@
+.scrollspy-example {
+  height: 400px;
+}
+
+.lgi {
+  font-weight: bold;
+  font-size: 1.25em;
+  color: #fff;
+  background-color: #a6aab4;
+}
+
+.lgia2 {
+  padding-left: 4rem !important;
+  width: 100%;
+  color: #7a7d87;
+  text-align: inherit;
+  background-color: #f0f4f9;
+  border-color: #6c757d;
+}
+
+.lgia2:hover, .lgia2:focus {
+  z-index: 1;
+  color: #e1e9f0;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.lgia2:active {
+  color: #9aa6b3;
+  background-color: #e9ecef;
+}
+
+.list-group-item-light.lgia2.active {
+  color: #fff;
+  background-color: #29299E;
+  border-color: #B1B1B4;
+}
